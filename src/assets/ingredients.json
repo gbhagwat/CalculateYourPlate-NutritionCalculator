@@ -1,0 +1,314 @@
+[
+  {
+    "name": "Argula",
+    "category": "Greens",
+    "full": {
+      "calories": 30,
+      "fat": 0,
+      "satFat": 0,
+      "chol": 0,
+      "sodium": 30,
+      "carbs": 4,
+      "fiber": 0,
+      "protein": 4,
+      "sugars": 4
+    },
+    "half": {
+      "calories": 15,
+      "fat": 0,
+      "satFat": 0,
+      "chol": 0,
+      "sodium": 15,
+      "carbs": 2,
+      "fiber": 0,
+      "protein": 2,
+      "sugars": 2
+    }
+  },
+  {
+    "name": "Kale",
+    "category": "Greens",
+    "full": {
+      "calories": 20,
+      "fat": 0,
+      "satFat": 0,
+      "chol": 0,
+      "sodium": 15,
+      "carbs": 4,
+      "fiber": 2,
+      "protein": 2,
+      "sugars": 0
+    },
+    "half": {
+      "calories": 10,
+      "fat": 0,
+      "satFat": 0,
+      "chol": 0,
+      "sodium": 10,
+      "carbs": 2,
+      "fiber": 0.5,
+      "protein": 0.5,
+      "sugars": 0
+    }
+  },
+  {
+    "name": "Power Greens",
+    "category": "Greens",
+    "full": {
+      "calories": 35,
+      "fat": 0,
+      "satFat": 0,
+      "chol": 0,
+      "sodium": 28,
+      "carbs": 8,
+      "fiber": 3,
+      "protein": 3,
+      "sugars": 2
+    },
+    "half": {
+      "calories": 20,
+      "fat": 0,
+      "satFat": 0,
+      "chol": 0,
+      "sodium": 15,
+      "carbs": 4,
+      "fiber": 1,
+      "protein": 1,
+      "sugars": 1
+    }
+  },
+  {
+    "name": "Romaine",
+    "category": "Greens",
+    "full": {
+      "calories": 20,
+      "fat": 0,
+      "satFat": 0,
+      "chol": 0,
+      "sodium": 10,
+      "carbs": 4,
+      "fiber": 4,
+      "protein": 0,
+      "sugars": 0
+    },
+    "half": {
+      "calories": 10,
+      "fat": 0,
+      "satFat": 0,
+      "chol": 0,
+      "sodium": 0,
+      "carbs": 2,
+      "fiber": 2,
+      "protein": 0,
+      "sugars": 0
+    }
+  },
+  {
+    "name": "Spinach",
+    "category": "Greens",
+    "full": {
+      "calories": 25,
+      "fat": 0,
+      "satFat": 0,
+      "chol": 0,
+      "sodium": 90,
+      "carbs": 4,
+      "fiber": 2,
+      "protein": 3,
+      "sugars": 0
+    },
+    "half": {
+      "calories": 15,
+      "fat": 0,
+      "satFat": 0,
+      "chol": 0,
+      "sodium": 45,
+      "carbs": 2,
+      "fiber": 1,
+      "protein": 2,
+      "sugars": 0
+    }
+  },
+  {
+    "name": "Spring Mix",
+    "category": "Greens",
+    "full": {
+      "calories": 25,
+      "fat": 0,
+      "satFat": 0,
+      "chol": 0,
+      "sodium": 65,
+      "carbs": 4,
+      "fiber": 1,
+      "protein": 3,
+      "sugars": 0
+    },
+    "half": {
+      "calories": 15,
+      "fat": 0,
+      "satFat": 0,
+      "chol": 0,
+      "sodium": 35,
+      "carbs": 2,
+      "fiber": 0.5,
+      "protein": 2,
+      "sugars": 0
+    }
+  },
+  {
+    "name": "Sunflower Sprouts",
+    "category": "Greens",
+    "full": {
+      "calories": 50,
+      "fat": 0,
+      "satFat": 0,
+      "chol": 0,
+      "sodium": 0,
+      "carbs": 4,
+      "fiber": 0,
+      "protein": 4,
+      "sugars": 0
+    },
+    "half": {
+      "calories": 25,
+      "fat": 0,
+      "satFat": 0,
+      "chol": 0,
+      "sodium": 0,
+      "carbs": 2,
+      "fiber": 0,
+      "protein": 2,
+      "sugars": 0
+    }
+  },
+  {
+    "name": "Brown Rice",
+    "category": "Grains",
+    "full": {
+      "calories": 200,
+      "fat": 9,
+      "satFat": 1.5,
+      "chol": 0,
+      "sodium": 330,
+      "carbs": 28,
+      "fiber": 1,
+      "protein": 3,
+      "sugars": 0
+    },
+    "half": {
+      "calories": 100,
+      "fat": 4.5,
+      "satFat": 0.5,
+      "chol": 0,
+      "sodium": 170,
+      "carbs": 14,
+      "fiber": 0.5,
+      "protein": 1,
+      "sugars": 0
+    }
+  },
+  {
+    "name": "Quinoa",
+    "category": "Grains",
+    "full": {
+      "calories": 80,
+      "fat": 3.5,
+      "satFat": 0.5,
+      "chol": 0,
+      "sodium": 450,
+      "carbs": 12,
+      "fiber": 1,
+      "protein": 2,
+      "sugars": 0.5
+    },
+    "half": {
+      "calories": 40,
+      "fat": 1.5,
+      "satFat": 0,
+      "chol": 0,
+      "sodium": 450,
+      "carbs": 12,
+      "fiber": 0.5,
+      "protein": 1,
+      "sugars": 0
+    }
+  },
+  {
+    "name": "Traditional",
+    "category": "Crust",
+    "full": {
+      "calories": 410,
+      "fat": 3.5,
+      "satFat": 0,
+      "chol": 0,
+      "sodium": 480,
+      "carbs": 78,
+      "fiber": 3,
+      "protein": 17,
+      "sugars": 17
+    },
+    "half": {
+      "calories": 170,
+      "fat": 1.5,
+      "satFat": 0,
+      "chol": 0,
+      "sodium": 260,
+      "carbs": 37,
+      "fiber": 5,
+      "protein": 9,
+      "sugars": 7
+    }
+  },
+  {
+    "name": "Whole Grains",
+    "category": "Crust",
+    "full": {
+      "calories": 410,
+      "fat": 3.5,
+      "satFat": 0,
+      "chol": 0,
+      "sodium": 480,
+      "carbs": 78,
+      "fiber": 3,
+      "protein": 17,
+      "sugars": 17
+    },
+    "half": {
+      "calories": 170,
+      "fat": 1.5,
+      "satFat": 0,
+      "chol": 0,
+      "sodium": 260,
+      "carbs": 37,
+      "fiber": 5,
+      "protein": 9,
+      "sugars": 7
+    }
+  },
+  {
+    "name": "Cauliflower",
+    "category": "Crust",
+    "full": {
+      "calories": 220,
+      "fat": 10,
+      "satFat": 6,
+      "chol": 100,
+      "sodium": 550,
+      "carbs": 17,
+      "fiber": 5,
+      "protein": 18,
+      "sugars": 4
+    },
+    "half": {
+      "calories": 110,
+      "fat": 5,
+      "satFat": 3,
+      "chol": 0,
+      "sodium": 280,
+      "carbs": 9,
+      "fiber": 2,
+      "protein": 9,
+      "sugars": 2
+    }
+  }
+]
